@@ -1,0 +1,89 @@
+
+[
+        {
+                "question":"Hello",
+                "questiondiffsyntax": ["hello","hi","hello!","hi!","HELLO","bonjour"],
+                "keywords":["keyword1", "keyword2", "keyword3","keyword4","keyword5"],
+                "reply": ["Hello to you too!","bonjour"]
+            },
+        
+            {
+                "question":"quels sont les clubs de cycle d//'ingenieur?",
+                "questiondiffsyntax": ["quels clubs dans le cycle d//'ingenieur","clubs de cycle d//'ingenieur"],
+                "keywords":["clubs de cycle d//'ingenieur", "cycle d//'ingenieur", "","kywrd42","kywrd52"],
+                "reply": "il y a plusieurs clubs pour differents filieres en cycle d'ingenieur ,les suivants: club IFA ,club Enactus, club GC, IRISI club, ISA club"
+            },
+            {
+                "question":"quels sont les clubs de jeux ou de sports qui existent ?",
+                "questiondiffsyntax": ["jeux clubs existent-ils dans la fst ?","","clubs de sports existent-ils dans la fst ?"],
+                "keywords":["jeux clubs", "clubs de sports", "sport","jeu","chess" , "football" ,"basketball"],
+                "reply": "la fstg offre plusieurs clubs de jeux et de sport comme club chess , club du football , club de basketball"
+            },
+        
+            {
+                "question":"quels sont les clubs de cycle master ?",
+                "questiondiffsyntax": ["cycle master","clubs de cycle master","licence"],
+                "keywords":["cycle master", "clubs de cycle master", "licence"],
+                "reply": "il existe plusieurs clubs diriges par des etudiants de cycle master dans la fst que les etudiants de la licence peuvent les integrer , les suivants:club IA2I,club biotechnologie vegetale ,club genie ellectrique et materiaux , ainsi le club enactus qui peut etre integre par tous les etudiants de la fst"
+        
+            },
+        
+            {
+                "question":"Qeuls sont les clubs offrés pour tous les etudiants de la fstg ?",
+                "questiondiffsyntax": ["version22","version32","version42","version52"],
+                "keywords":["clubs pour tous les etudiants","clubs fstg","clubs offerts"],
+                "reply": "il existe des clubs dans la fst dont lesquels chaque etudiant de n'importe filiere ou niveau à la fst peut les appartenir et ce sont: club RUMI(social club), club Enactus, ALC club (Africa leaders club),American language center.et Galeili club (club des sciences physiques)"
+            },
+        
+            {
+                "question":"Quels sont les avantages de rejoindre un club de la fst?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club?"],
+                "keywords":["avantages", "avantages des clubs", "kywrd32","kywrd42","kywrd52"],
+                "reply": "rejoindre un club dans la fst vous offre plusieurs informations à savoir informations sur ton parcours universitaire et carrière professionnelle ,aussi les clubs donnent des cours de revision pour votre cours et aussi un support et informations d'orientation"
+            },
+            
+            {
+                "question":"Quelles sont les activites du IRISI?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club irisi?"],
+                "keywords":["club IRISI", "irisi", "IRISI"],
+                "reply": "rejoindre le club IRISI dédié qux etudiants irisi vous offre plusieurs informations et formations concernant l'etude dans ce cycle ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l'esprit social et de partage avec d'autres étudiants de facultés différents "
+            },
+            {
+                "question":"Quelles sont les activites du club EE?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club EE ,EAU ET ENVIRONEMENT?"],
+                "keywords":["club EE", "EE", "EAU ET ENVIRONEMENT"],
+                "reply": "rejoindre le club EE dédié qux etudiants license eau et environement vous offre plusieurs informations et formations concernant l//'etude dans cette license ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+            },
+            {
+                "question":"Quelles sont les activites du GC?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club GC?"],
+                "keywords":["club GC", "GENIE CIVIL", "GC"],
+                "reply": "rejoindre le club GC dédié qux etudiants GC vous offre plusieurs informations et formations concernant l//'etude dans ce cycle ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+            },
+            {
+                "question":"Quelles sont les activites du club IA2I?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club IA2E?"],
+                "keywords":["club IA2I", "IA2I", "inteligence artificiele"],
+                "reply": "rejoindre le club IA2I dédié qux etudiants IA2I et etudiants de license SIR vous offre plusieurs informations et formations concernant l//'etude dans ce master et license SIR ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+            },
+            {
+                "question":"Quelles sont les activites du club ENACTUS",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club ENACTUS?"],
+                "keywords":["club ENACTUS", "ENACTUS"],
+                "reply": "ce club favorise le progrès grâce à l’action entrepreneuriale, son équipe est une communauté d’étudiants, d’universitaires et de chefs d’entreprise, rejoindre ce club vous permettra de s//'ouvrir sur le domaine enteprenariat ce qui vous aidera à avoir un vision sur le marché du travail"
+            },
+            {
+                "question":"Quelles sont les activites du club RUMI",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club RUMI?"],
+                "keywords":["club RUMI", "RUMI"],
+                "reply": "ce club favorise le support social aux étudaints comme le recouvrement sanitaire "
+            },
+            {
+                "question":"Quelles sont les activites du club genie electrique",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club genie electrique?"],
+                "keywords":["club genie electrique", "galeili club"],
+                "reply": "ce club concerne les sciences physiques , il aide tous les étudiants de physique dans fst à améliorer leur sense dans les modules de physique "
+            }
+
+
+]
