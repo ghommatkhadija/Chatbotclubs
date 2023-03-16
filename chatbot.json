@@ -1,10 +1,10 @@
 
 [
         {
-                "question":"Hello",
-                "questiondiffsyntax": ["hello","hi","hello!","hi!","HELLO","bonjour"],
-                "keywords":["keyword1", "keyword2", "keyword3","keyword4","keyword5"],
-                "reply": ["Hello to you too!","bonjour"]
+                "question":"salut",
+                "questiondiffsyntax": ["cc","bonjour","Salut!","hi","hey","bonsoir","salam"],
+                "keywords":["salut"],
+                "reply": ["salut!"]
             },
         
             {
@@ -43,47 +43,100 @@
             },
             
             {
-                "question":"Quelles sont les activites du IRISI?",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club irisi?"],
-                "keywords":["club IRISI", "irisi", "IRISI"],
+                "question":"Quelles sont les activites du irisi?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club irisi?","c'est quoi irisi?"],
+                "keywords":["club irisi", "irisi"],
                 "reply": "rejoindre le club IRISI dédié qux etudiants irisi vous offre plusieurs informations et formations concernant l'etude dans ce cycle ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l'esprit social et de partage avec d'autres étudiants de facultés différents "
             },
             {
-                "question":"Quelles sont les activites du club EE?",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club EE ,EAU ET ENVIRONEMENT?"],
-                "keywords":["club EE", "EE", "EAU ET ENVIRONEMENT"],
-                "reply": "rejoindre le club EE dédié qux etudiants license eau et environement vous offre plusieurs informations et formations concernant l//'etude dans cette license ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+                "question":"Quelles sont les activites du club ee?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club ee ,eau et environement?","c'est quoi ee ?"],
+                "keywords":["club ee", "ee", "eau et environement"],
+                "reply": "rejoindre le club EE dédié qux etudiants license eau et environement vous offre plusieurs informations et formations concernant l'etude dans cette license ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l'esprit social et de partage avec d'autres étudiants de facultés différents "
             },
             {
-                "question":"Quelles sont les activites du GC?",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club GC?"],
-                "keywords":["club GC", "GENIE CIVIL", "GC"],
-                "reply": "rejoindre le club GC dédié qux etudiants GC vous offre plusieurs informations et formations concernant l//'etude dans ce cycle ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+                "question":"Quelles sont les activites du gc?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club GC?","c'est quoi gc?"],
+                "keywords":["club gc", "génie civil","genie civil","gc"],
+                "reply": "rejoindre le club GC dédié qux etudiants GC vous offre plusieurs informations et formations concernant l'etude dans ce cycle ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l'esprit social et de partage avec d'autres étudiants de facultés différents "
             },
             {
-                "question":"Quelles sont les activites du club IA2I?",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club IA2E?"],
-                "keywords":["club IA2I", "IA2I", "inteligence artificiele"],
-                "reply": "rejoindre le club IA2I dédié qux etudiants IA2I et etudiants de license SIR vous offre plusieurs informations et formations concernant l//'etude dans ce master et license SIR ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l//'esprit social et de partage avec d//'autres étudiants de facultés différents "
+                "question":"Quelles sont les activites du club ia2i?",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club ia2i?","c'est quoi ia2i?"],
+                "keywords":["club ia2i", "ia2i", "inteligence artificiele"],
+                "reply": "rejoindre le club IA2I dédié qux etudiants IA2I et etudiants de license SIR vous offre plusieurs informations et formations concernant l'etude dans ce master et license SIR ainsi il organise des événements dont ses membres peuvent les participer pour enrechir l'esprit social et de partage avec d'autres étudiants de facultés différents "
             },
             {
-                "question":"Quelles sont les activites du club ENACTUS",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club ENACTUS?"],
-                "keywords":["club ENACTUS", "ENACTUS"],
-                "reply": "ce club favorise le progrès grâce à l’action entrepreneuriale, son équipe est une communauté d’étudiants, d’universitaires et de chefs d’entreprise, rejoindre ce club vous permettra de s//'ouvrir sur le domaine enteprenariat ce qui vous aidera à avoir un vision sur le marché du travail"
+                "question":"Quelles sont les activites du club enactus",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club enactus?","c'est quoi enactus?"],
+                "keywords":["club enactus", "enactus"],
+                "reply": "ce club favorise le progrès grâce à l’action entrepreneuriale, son équipe est une communauté d’étudiants, d’universitaires et de chefs d’entreprise, rejoindre ce club vous permettra de s'ouvrir sur le domaine enteprenariat ce qui vous aidera à avoir un vision sur le marché du travail"
             },
             {
-                "question":"Quelles sont les activites du club RUMI",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club RUMI?"],
-                "keywords":["club RUMI", "RUMI"],
+                "question":"Quelles sont les activites du club rumi",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club rumi?","c'est quoi rumi?"],
+                "keywords":["club rumi", "rumi"],
                 "reply": "ce club favorise le support social aux étudaints comme le recouvrement sanitaire "
             },
             {
                 "question":"Quelles sont les activites du club genie electrique",
-                "questiondiffsyntax": ["a quoi sert rejoindre un club genie electrique?"],
-                "keywords":["club genie electrique", "galeili club"],
+                "questiondiffsyntax": ["a quoi sert rejoindre un club genie electrique?","c'est quoi génie éléctrique?"],
+                "keywords":["club genie electrique","genie electrique","génie éléctrique"],
                 "reply": "ce club concerne les sciences physiques , il aide tous les étudiants de physique dans fst à améliorer leur sense dans les modules de physique "
+            },
+            {
+                "question":"Quelles sont les activites du club ifa",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club ifa?","c'est quoi ifa?"],
+                "keywords":["club ifa","ifa","Ingénierie en Finance et Actuariat"],
+                "reply": "ce club concerne le doma , il aide tous les étudiants de physique dans fst à améliorer leur sense dans les modules de physique "
+            },
+            {
+                "question":"Quelles sont les activites du club sdad",
+                "questiondiffsyntax": ["a quoi sert rejoindre le club sdad?","c'est quoi sdad?"],
+                "keywords":["club sdad","sdad","data science","data"],
+                "reply": "Club du Master science des données at Aide à la décision Universié "
+            },
+            {
+                "question":"Quelles sont les activites du club isa",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club isa?","c'est quoi isa?"],
+                "keywords":["club isa","isa","Industrie et Sécurité Des Aliments"],
+                "reply": "c'est un club des élèves ingénieurs en Industrie et Securité des Aliments. "
+            },
+            {
+                "question":"Quelles sont les activites du club igmp",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club igmp?","c'est quoi igmp?"],
+                "keywords":["club igmp","igmp"],
+                "reply": "IGMP c'est le club de la filière d'ingénieurie Génie des Matériaux et Procédés "
+            },
+            {
+                "question":"Quelles sont les activites du club mabiova",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club mabiova?","c'est quoi mabiova?"],
+                "keywords":["club mabiova","mabiova","biologie","club biologie"],
+                "reply": "Club du Master Internatinal en Biotechnologies Appliquées pour l'Amélioration des plantes. "
+            },
+            {
+                "question":"Quelles sont les activites du club galili",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club galili?","c'est quoi galili?"],
+                "keywords":["club galili","galili","astronomie"],
+                "reply": "ce club  réunit les étudiants passionés par l'astronomie"
+            },
+            {
+                "question":"Quelles sont les activites du club alc",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club alc?","c'est quoi alc?"],
+                "keywords":["club alc","africa leaders"],
+                "reply": "Africa Leaders Club est un club de la faculté des sciences et techniques gueliz, qui a pour but principal: De faciliter l'intégration des étudiants étrangers (nouveaux ou anciens) au sein de la faculté Permettre l'inter-échange culturel Mettre en place une plate-forme de net-working post-universitaire entre les anciens étudiants de la FST D'aporter des aides (académiques) aux universités d'Afrique et d'ailleurs."
+            },
+            {
+                "question":"Quelles sont les activites du club cofe",
+                "questiondiffsyntax": ["a quoi sert rejoindre un club cofe?","c'est quoi cofe?"],
+                "keywords":["club cofe","cofe"],
+                "reply": "Est un Club d'Orientation et de Formation pour les Etudiants"
+            },
+            {
+                "question":"merci",
+                "questiondiffsyntax": ["merci beaucoup","je te remercie","au revoir"],
+                "keywords":["merci", "remerci"],
+                "reply": [ "merci a vous pour votre  visite.",
+                "nous somme a votre disposition 24/24 , n'hésitez pas  à la demande d'aide."]
             }
-
-
 ]

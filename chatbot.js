@@ -8,7 +8,7 @@ fetch("./questions.json")
      });
 
 function getReply(msg){
-    tempmsg=addDoubleSlash(msg);
+    tempmsg=addDoubleSlash(msg).toLowerCase();
     keycount=0;
 fetch("chatbot.json")
       .then(function(resp){
@@ -18,7 +18,7 @@ fetch("chatbot.json")
       .then(function(data){
           for (i=0; i<2; i++){
           if(i==0){
-              for (j=0; j<13; j++){
+              for (j=0; j<21; j++){
                   if(tempmsg == data[j].question){
                      return data[j].reply;
                     }
