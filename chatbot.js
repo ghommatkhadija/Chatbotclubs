@@ -39,7 +39,7 @@ fetch("chatbot.json")
             }
           }
           else { 
-              return " Je n 'ai pas saisi ce que vous avez dit.\n";
+              return alternative[Math.floor(Math.random() * alternative.length)];;
           }
         }
      })
@@ -53,6 +53,12 @@ fetch("chatbot.json")
     function addDoubleSlash(str) {
       return str.replace(/'/g, '//\'');
     }
+    const alternative = [
+      "J'ai du mal à comprendre cette question.",
+      "J'ai mal compris votre demande.",
+      "Je crois que je ne vous suis pas.",
+      "Je ne comprends pas de quoi vous me parlez."
+    ]
     
     
 
